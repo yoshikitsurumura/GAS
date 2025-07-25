@@ -1,1 +1,1 @@
-\"Add ChatBotGAssGPT GAS project\"  
+\"Add chatbotGeminiGas GAS project\"  
