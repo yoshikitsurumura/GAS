@@ -1,1 +1,1 @@
-\"Add GeminiCliGoogleDocs2 GAS project\"  
+\"Add ChatBotGassGemini GAS project\"  
